@@ -1,0 +1,166 @@
+﻿已經開始建置於 2019/4/10 上午 12:32:24。
+     1>節點 2 (Build 目標) 上的專案 "D:\計算機圖學\Final_project_C44031142\Final_project_C44031142\Final_project_C44031142.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Final_project_C44031142.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Final_project_C44031142.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Final_project_C44031142.cpp InputStl.cpp math3d.cpp
+         math3d.cpp
+         InputStl.cpp
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\inputstl.cpp(186): warning C4244: '正在初始化' : 將 'std::streamsize' 轉換為 'int'，由於類型不同，可能導致資料遺失
+         Final_project_C44031142.cpp
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3197): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3237): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3303): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3336): warning C4244: '引數' : 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3340): warning C4244: '引數' : 將 'GLfloat' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3358): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3359): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3382): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3384): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3410): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3412): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3467): warning C4244: '引數' : 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3471): warning C4244: '引數' : 將 'GLfloat' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3489): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3490): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3513): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3515): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3541): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3543): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3598): warning C4244: '引數' : 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3602): warning C4244: '引數' : 將 'GLfloat' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3620): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3621): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3644): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3646): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3672): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3674): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3729): warning C4244: '引數' : 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3733): warning C4244: '引數' : 將 'GLfloat' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3751): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3752): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3775): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3777): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3803): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3805): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3860): warning C4244: '引數' : 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3864): warning C4244: '引數' : 將 'GLfloat' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3882): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3883): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3906): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3908): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3935): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3937): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3993): warning C4244: '引數' : 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(3997): warning C4244: '引數' : 將 'GLfloat' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4014): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4015): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4039): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4041): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4068): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4070): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4126): warning C4244: '引數' : 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4130): warning C4244: '引數' : 將 'GLfloat' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4147): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4148): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4172): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4174): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4201): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4203): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4260): warning C4244: '引數' : 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4262): warning C4244: '引數' : 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4266): warning C4244: '引數' : 將 'GLfloat' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4284): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4285): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4308): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4310): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4336): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4337): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4397): warning C4244: '引數' : 將 'GLfloat' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4415): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4416): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4440): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4442): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4468): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4470): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4530): warning C4244: '引數' : 將 'GLfloat' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4548): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4549): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4573): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4575): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4602): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(4604): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(5722): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(5744): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(5765): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(5787): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(5808): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(5829): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(5850): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(5871): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(5892): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(5913): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(5934): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(5955): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(5976): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(5997): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6018): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6040): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6061): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6082): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6103): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6124): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6145): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6166): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6187): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6208): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6229): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6251): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6272): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6294): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6315): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6336): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6357): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6378): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6399): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6420): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6441): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6462): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6483): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6505): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6526): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6548): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6569): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6590): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6611): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6632): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6653): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6674): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6695): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6716): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6737): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6759): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6780): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6802): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6823): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6844): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6865): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6886): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6907): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6928): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6949): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6970): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(6991): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+     1>d:\計算機圖學\final_project_c44031142\final_project_c44031142\final_project_c44031142.cpp(7012): warning C4244: '=' : 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+         正在產生程式碼...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\計算機圖學\Final_project_C44031142\Debug\Final_project_C44031142.exe" /INCREMENTAL /NOLOGO opengl32.lib glaux.lib glu32.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBC.LIB /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\計算機圖學\Final_project_C44031142\Debug\Final_project_C44031142.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\計算機圖學\Final_project_C44031142\Debug\Final_project_C44031142.lib" /MACHINE:X86 Debug\Final_project_C44031142.obj
+         Debug\InputStl.obj
+         Debug\math3d.obj
+         Debug\stdafx.obj
+         Final_project_C44031142.vcxproj -> D:\計算機圖學\Final_project_C44031142\Debug\Final_project_C44031142.exe
+     1>專案 "D:\計算機圖學\Final_project_C44031142\Final_project_C44031142\Final_project_C44031142.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:05.49
