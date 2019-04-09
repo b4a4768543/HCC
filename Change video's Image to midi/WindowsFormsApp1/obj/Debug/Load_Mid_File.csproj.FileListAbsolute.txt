@@ -1,0 +1,10 @@
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Load_Mid_File.csprojAssemblyReference.cache
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Load_Mid_Form.resources
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Load_Mid_File.csproj.GenerateResource.cache
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Load_Mid_File.csproj.CoreCompileInputs.cache
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

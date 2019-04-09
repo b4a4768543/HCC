@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Load_Mid_File", "WindowsFormsApp1\Load_Mid_File.csproj", "{100E3EA8-695E-478B-BE67-BD7FA62DA879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create_Mid_File", "Create_Mid_File\Create_Mid_File.csproj", "{F5373A56-3061-4DB3-8D5B-BB81FD275E2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{100E3EA8-695E-478B-BE67-BD7FA62DA879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100E3EA8-695E-478B-BE67-BD7FA62DA879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100E3EA8-695E-478B-BE67-BD7FA62DA879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100E3EA8-695E-478B-BE67-BD7FA62DA879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5373A56-3061-4DB3-8D5B-BB81FD275E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5373A56-3061-4DB3-8D5B-BB81FD275E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5373A56-3061-4DB3-8D5B-BB81FD275E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5373A56-3061-4DB3-8D5B-BB81FD275E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B94C969-2762-48ED-88A1-C4004723318A}
+	EndGlobalSection
+EndGlobal

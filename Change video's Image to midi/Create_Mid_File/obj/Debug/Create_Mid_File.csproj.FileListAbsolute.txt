@@ -1,0 +1,15 @@
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\Create_Mid_File\bin\Debug\Create_Mid_File.exe.config
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\Create_Mid_File\bin\Debug\Create_Mid_File.exe
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\Create_Mid_File\bin\Debug\Create_Mid_File.pdb
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\Create_Mid_File\bin\Debug\Interop.WMPLib.dll
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\Create_Mid_File\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\Create_Mid_File\obj\Debug\Interop.WMPLib.dll
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\Create_Mid_File\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\Create_Mid_File\obj\Debug\Create_Mid_File.csproj.ResolveComReference.cache
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\Create_Mid_File\obj\Debug\Create_Mid_File.Create_Mid_Form.resources
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\Create_Mid_File\obj\Debug\Create_Mid_File.Properties.Resources.resources
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\Create_Mid_File\obj\Debug\Create_Mid_File.csproj.GenerateResource.cache
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\Create_Mid_File\obj\Debug\Create_Mid_File.csproj.CoreCompileInputs.cache
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\Create_Mid_File\obj\Debug\Create_Mid_File.exe
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\Create_Mid_File\obj\Debug\Create_Mid_File.pdb
+C:\Users\b4a47\Desktop\turn midi\WindowsFormsApp1\Create_Mid_File\obj\Debug\Create_Mid_File.csprojAssemblyReference.cache
